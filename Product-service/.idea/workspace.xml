@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="303fc422-07ca-466d-a921-e44d360cac5b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../Customer-service/.gitattributes" beforeDir="false" afterPath="$PROJECT_DIR$/../Api-gateway/Customer-service/.gitattributes" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Customer-service/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../Api-gateway/Customer-service/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Customer-service/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../Api-gateway/Customer-service/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Customer-service/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../Api-gateway/Customer-service/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Customer-service/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../Api-gateway/Customer-service/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Customer-service/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../Api-gateway/Customer-service/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Customer-service/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/../Api-gateway/Customer-service/gradlew.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Customer-service/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../Api-gateway/Customer-service/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Customer-service/src/main/java/iuh/edu/vn/dhktpm17a/customerservice/CustomerServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Api-gateway/Customer-service/src/main/java/iuh/edu/vn/dhktpm17a/customerservice/CustomerServiceApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Customer-service/src/main/java/iuh/edu/vn/dhktpm17a/customerservice/controller/CustomerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Api-gateway/Customer-service/src/main/java/iuh/edu/vn/dhktpm17a/customerservice/controller/CustomerController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Customer-service/src/main/java/iuh/edu/vn/dhktpm17a/customerservice/entity/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Api-gateway/Customer-service/src/main/java/iuh/edu/vn/dhktpm17a/customerservice/entity/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Customer-service/src/main/java/iuh/edu/vn/dhktpm17a/customerservice/repository/CustomerRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Api-gateway/Customer-service/src/main/java/iuh/edu/vn/dhktpm17a/customerservice/repository/CustomerRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Customer-service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../Api-gateway/Customer-service/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Customer-service/src/test/java/iuh/edu/vn/dhktpm17a/customerservice/CustomerServiceApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Api-gateway/Customer-service/src/test/java/iuh/edu/vn/dhktpm17a/customerservice/CustomerServiceApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Orderr-service/.gitattributes" beforeDir="false" afterPath="$PROJECT_DIR$/../Api-gateway/Orderr-service/.gitattributes" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Orderr-service/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../Api-gateway/Orderr-service/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Orderr-service/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../Api-gateway/Orderr-service/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Orderr-service/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../Api-gateway/Orderr-service/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Orderr-service/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../Api-gateway/Orderr-service/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Orderr-service/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../Api-gateway/Orderr-service/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Orderr-service/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/../Api-gateway/Orderr-service/gradlew.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Orderr-service/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../Api-gateway/Orderr-service/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Orderr-service/src/main/java/iuh/edu/vn/dhktpm17a/orderrservice/OrderrServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Api-gateway/Orderr-service/src/main/java/iuh/edu/vn/dhktpm17a/orderrservice/OrderrServiceApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Orderr-service/src/main/java/iuh/edu/vn/dhktpm17a/orderrservice/controller/OrderController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Api-gateway/Orderr-service/src/main/java/iuh/edu/vn/dhktpm17a/orderrservice/controller/OrderController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Orderr-service/src/main/java/iuh/edu/vn/dhktpm17a/orderrservice/entity/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Api-gateway/Orderr-service/src/main/java/iuh/edu/vn/dhktpm17a/orderrservice/entity/Order.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Orderr-service/src/main/java/iuh/edu/vn/dhktpm17a/orderrservice/repository/OrderRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Api-gateway/Orderr-service/src/main/java/iuh/edu/vn/dhktpm17a/orderrservice/repository/OrderRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Orderr-service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../Api-gateway/Orderr-service/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Orderr-service/src/test/java/iuh/edu/vn/dhktpm17a/orderrservice/OrderrServiceApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Api-gateway/Orderr-service/src/test/java/iuh/edu/vn/dhktpm17a/orderrservice/OrderrServiceApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" afterPath="$PROJECT_DIR$/../Api-gateway/Product-service/.gitattributes" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../Api-gateway/Product-service/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../Api-gateway/Product-service/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../Api-gateway/Product-service/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../Api-gateway/Product-service/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../Api-gateway/Product-service/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/../Api-gateway/Product-service/gradlew.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../Api-gateway/Product-service/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/iuh/edu/vn/dhktpm17a/productservice/ProductServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Api-gateway/Product-service/src/main/java/iuh/edu/vn/dhktpm17a/productservice/ProductServiceApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/iuh/edu/vn/dhktpm17a/productservice/controller/ProductController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Api-gateway/Product-service/src/main/java/iuh/edu/vn/dhktpm17a/productservice/controller/ProductController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/iuh/edu/vn/dhktpm17a/productservice/entity/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Api-gateway/Product-service/src/main/java/iuh/edu/vn/dhktpm17a/productservice/entity/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/iuh/edu/vn/dhktpm17a/productservice/repository/ProductRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Api-gateway/Product-service/src/main/java/iuh/edu/vn/dhktpm17a/productservice/repository/ProductRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../Api-gateway/Product-service/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/iuh/edu/vn/dhktpm17a/productservice/ProductServiceApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Api-gateway/Product-service/src/test/java/iuh/edu/vn/dhktpm17a/productservice/ProductServiceApplicationTests.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$/../Api-gateway">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/../Customer-service">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/../Customer-service/Order-service">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/../Oder-service">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/../Order-service">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/../Orderr-service">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="myGradleUserHome" value="$PROJECT_DIR$/../../../gradle-8.10/bin" />
+  </component>
+  <component name="JpbToolWindowState">
+    <option name="isToolWindowVisible" value="false" />
+  </component>
+  <component name="KubernetesApiPersistence"><![CDATA[{}]]></component>
+  <component name="KubernetesApiProvider"><![CDATA[{
+  "isMigrated": true
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2vRJxxypL1XcczqGx1t3hGp1TdU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "jdk.selected.JAVA_MODULE": "17",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/KTPM/Microservice",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "run.configurations.included.in.services": "true",
+    "settings.editor.selected.configurable": "reference.settingsdialog.project.gradle",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\KTPM\Microservice\Api-gateway" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="KtorApplicationConfigurationType" />
+        <option value="MicronautRunConfigurationType" />
+        <option value="QuarkusRunConfigurationType" />
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.CustomerServiceApplication">
+    <configuration name="ApiGatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="Api-gateway.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="iuh.edu.vn.dhktpm17a.apigateway.ApiGatewayApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CustomerServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="Customer-service.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="iuh.edu.vn.dhktpm17a.customerservice.CustomerServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.23339.11" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.23339.11" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="303fc422-07ca-466d-a921-e44d360cac5b" name="Changes" comment="" />
+      <created>1744102204650</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1744102204650</updated>
+      <workItem from="1744102205589" duration="755000" />
+      <workItem from="1744104617828" duration="1270000" />
+      <workItem from="1744105922321" duration="697000" />
+      <workItem from="1744706323407" duration="1813000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
